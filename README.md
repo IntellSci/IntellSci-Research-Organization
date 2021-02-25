@@ -4,6 +4,12 @@ All About the Organization
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
+[tasks](#tasks)
+
+
+<a name="tasks">
+   my tasks
+</a>
 
 
 PROGRAMS ON SELF-INTELLIGENCE
