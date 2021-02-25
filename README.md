@@ -2,53 +2,50 @@ All About the Organization
 
 
 
-SERVICES
+SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
 
 
 PROGRAMS ON SELF-INTELLIGENCE
 
----
-widget: featurette
-headless: true
-weight: 10
-title: Research
-subtitle: To Enable_anything_ ✨
-feature:
-  - icon: list-alt
-    icon_pack: fas
-    name: SERVICES
-    description: For social and commercial purpose
-    
-  - icon: book-open
-    icon_pack: fas
-    name: PROGRAMS
-    description: For Self-Intelligence
-    
-  - icon: question
-    icon_pack: fas
-    name: AWARENESS
-    description: For yourself
-    
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
-    
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
-    
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
-    
-    # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
----
+**BEING YOU**
+
+- Content based on Ancient Scriptures on Philosophy of Life
+
+- TARGETED THOUGHT-ENERGY THERAPY
+
+- Self-assess, Self-heal, Self-rejuvenate, Self-aware Assessments
+
+- Mind and Thought Cleansing
+
+- Routine Checks
+
+- Thought Pattern Analysis
+
+Engage your individual lunar power
+
+Identify the triggers of your hormonal imbalance
+
+Learn the right lesson from your pain (physical and emotional)
+
+Heal the root of your dis-comfort or dis-ease
+
+Rectify the triggers of your dis-comfort
+
+Prevent the physical manifestation of your hereditary complaints
+
+Realize your individual emotional balance
+
+Match the YAMAS and NIYAMAS in your living
+
+Raise your inner vibrational frequency and vital energy
+
+Match your career goal with your true personality and intelligence
+
+Study your Thought Energy Pattern
+
+Resolve your hidden trauma and fear
+
+Break your barriers of abuse
+
 
