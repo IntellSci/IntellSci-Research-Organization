@@ -7,9 +7,6 @@ SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [tasks](#tasks)
 
 
-<a name="tasks">
-   my tasks
-</a>
 
 
 PROGRAMS ON SELF-INTELLIGENCE
@@ -54,6 +51,9 @@ Resolve your hidden trauma and fear
 
 Break your barriers of abuse
 
+<a name="tasks">
+   my tasks
+</a>
 
 **BEYOND SCHOOL**
 - Skill Intelligence
