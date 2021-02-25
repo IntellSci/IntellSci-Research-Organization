@@ -4,7 +4,7 @@ All About the Organization
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
-[tasks](#tasks)
+[tasks](#Being You)
 
 
 
@@ -51,8 +51,8 @@ Resolve your hidden trauma and fear
 
 Break your barriers of abuse
 
-<a name="tasks">
-   my tasks
+<a name="Being you">
+   content
 </a>
 
 **BEYOND SCHOOL**
