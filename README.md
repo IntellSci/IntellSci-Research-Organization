@@ -1,53 +1,54 @@
 All About the Organization
 
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "HOME"
-  url = "#about"
-  weight = 10
 
-[[main]]
-  name = "SERVICES"
-  url = "#services"
-  weight = 20
-  
-[[main]]
-  name = "PROGRAMS"
-  url = "#programs"
-  weight = 30
+SERVICES
 
-[[main]]
-  name = "PROJECTS"
-  url = "#projects"
-  weight = 40
 
-[[main]]
-  name = "TALKS"
-  url = "#talks"
-  weight = 50
 
-[[main]]
-  name = "PUBLICATIONS"
-  url = "#featured"
-  weight = 60
-  
-[[main]]
-  name = "ANNOUNCEMENTS"
-  url = "#announcements"
-  weight = 70
+PROGRAMS ON SELF-INTELLIGENCE
 
-[[main]]
-  name = "CONTACT"
-  url = "#contact"
-  weight = 80
+---
+widget: featurette
+headless: true
+weight: 10
+title: Research
+subtitle: To Enable_anything_ ✨
+feature:
+  - icon: list-alt
+    icon_pack: fas
+    name: SERVICES
+    description: For social and commercial purpose
+    
+  - icon: book-open
+    icon_pack: fas
+    name: PROGRAMS
+    description: For Self-Intelligence
+    
+  - icon: question
+    icon_pack: fas
+    name: AWARENESS
+    description: For yourself
+    
+  - icon: r-project
+    icon_pack: fab
+    name: R
+    description: 90%
+    
+  - icon: chart-line
+    icon_pack: fas
+    name: Statistics
+    description: 100%
+    
+  - icon: camera-retro
+    icon_pack: fas
+    name: Photography
+    description: 10%
+    
+    # Example using an emoji as an icon.
+  - icon: '😄'
+    icon_pack: emoji
+    name: Emojiness
+    description: 100%
+---
 
-## Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "media/resume.pdf"
-#    weight = 70
