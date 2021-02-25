@@ -1,13 +1,15 @@
 All About the Organization
+[BEING YOU](#beingyou)
 
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
-[tasks](#BeingYou)
 
 
 PROGRAMS ON SELF-INTELLIGENCE
+
+<a name="beingyou">
 
 **BEING YOU**
 
@@ -49,8 +51,7 @@ Resolve your hidden trauma and fear
 
 Break your barriers of abuse
 
-<a name="Beingyou">
-   content
+   
 </a>
 
 **BEYOND SCHOOL**
