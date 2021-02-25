@@ -4,7 +4,7 @@ All About the Organization
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
-[tasks](#Being You)
+[tasks](#BeingYou)
 
 
 PROGRAMS ON SELF-INTELLIGENCE
@@ -49,7 +49,7 @@ Resolve your hidden trauma and fear
 
 Break your barriers of abuse
 
-<a name="Being you">
+<a name="Beingyou">
    content
 </a>
 
