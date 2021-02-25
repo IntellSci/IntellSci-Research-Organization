@@ -5,7 +5,6 @@ All About the Organization
 [BEYOND SCHOOL](#beyondschool)
 
 
-
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 
 
