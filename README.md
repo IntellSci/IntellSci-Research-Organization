@@ -28,7 +28,7 @@ PROGRAMS ON SELF-INTELLIGENCE(#self_intelligence)
 [SCIENTIFIC INTELLIGENCE](#scientific_intelligence)
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ``Mathematics for Social Sciences
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Engineering Analytics`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `General Psychology for Developers`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Data Psychology for Developers`
