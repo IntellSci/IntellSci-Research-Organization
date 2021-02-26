@@ -5,6 +5,7 @@
 ```diff
 hello
 - Welcome to IntellSci Research Organization!!!
+![logo](https://user-images.githubusercontent.com/79456176/109333083-02ecf800-7885-11eb-9701-9975c8f56914.png)
 
 - text in red
 + text in green
@@ -15,10 +16,6 @@ hello
 
 ![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
 
-```
-![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
-
-```
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
