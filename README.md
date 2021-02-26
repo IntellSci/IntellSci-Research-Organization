@@ -1,11 +1,11 @@
 
 + Welcome to IntellSci Research Organization!!!
 
-
+![logo](https://user-images.githubusercontent.com/79456176/109333083-02ecf800-7885-11eb-9701-9975c8f56914.png)
 ```diff
 hello
 - Welcome to IntellSci Research Organization!!!
-![logo](https://user-images.githubusercontent.com/79456176/109333083-02ecf800-7885-11eb-9701-9975c8f56914.png)
+
 
 - text in red
 + text in green
