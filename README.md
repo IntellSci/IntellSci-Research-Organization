@@ -5,7 +5,8 @@
 
 
 
-**[SERVICES](#services) for SOCIAL AND COMMERCIAL PURPOSES**
+**[SERVICES](#services)**
+- **[PROCESS AND QUALITY IMPROVEMENT](#PQ)** - for Social and Commercial Purposes
 - **[TARGETED THOUGHT-ENERGY THERAPY](#TTT)**
 
 
@@ -45,7 +46,7 @@
   
 <a name="PQ">  
   
-**PROCESS AND QUALITY IMPROVEMENT - for SOCIAL AND COMMERCIAL PURPOSES**
+**PROCESS AND QUALITY IMPROVEMENT** - for social and commercial purposes
 With large volumes of data available everywhere and fewer experts to study, analyze and interpret them in comprehendible manner is challenging by itself. With great passion towards Statistics and knowledge in various industries like textiles, insurance, banking, education and healthcare, we strive to make market research and analysis simpler.
 
 This entrepreneurial freelancing approach coupled with commitment to client satisfaction, enables us to provide process improvement services with application of advanced statistical tools and software. We even provide consulting and online tutoring services on Statistics and Six Sigma Process Improvement Methodologies. We provide efficient assistance for thesis, dissertation preparation and home work help for students.
@@ -63,6 +64,18 @@ If you would like to outsource the analytical job work to us email at: intellsci
 
 **TARGETED THOUGHT-ENERGY THERAPY**
   
+- Mind and Thought Cleansing
+
+- Thought Pattern Analysis
+
+-	Goal-oriented Counseling 
+
+- Capability Enhancement
+
+- Assessments: Intelligence, Learning Style, Personality, Need Analysis 
+
+- Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+
 
 <a name="selfintelligence">
   
