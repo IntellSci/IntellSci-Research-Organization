@@ -74,7 +74,6 @@ Resolve your hidden trauma and fear
 
 Break your barriers of abuse
    
-</a>
 
 
 <a name="beyondschool">
