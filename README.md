@@ -98,7 +98,7 @@ Educative and Informative Videos
 
 Goal Designing
 
-Career Mapping
+Career Framing
 
 Purpose Definition
 
