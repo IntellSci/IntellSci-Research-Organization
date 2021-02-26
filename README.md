@@ -14,7 +14,6 @@ hello
 + Welcome!
 ```
 
-![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
@@ -108,4 +107,7 @@ Assessments: Intelligence, Learning Style, Personality, Need Analysis
 
 Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
-</a>
+
+
+![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
+
