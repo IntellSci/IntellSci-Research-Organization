@@ -2,7 +2,7 @@
 
 ```diff
 
-** Welcome to IntellSci Research Organization!!!**
+- Welcome to IntellSci Research Organization!!!
 + Welcome to IntellSci Research Organization!!!
 - text in red
 + text in green
