@@ -13,7 +13,7 @@ SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
 [BEING YOU](#beingyou)
 [BEYOND SCHOOL](#beyondschool)
-[SKILL INTELLIGENCE](#skill_intelligence)
+[SKILL INTELLIGENCE](#skillintelligence)
   - Daily Data Science Bootcamp
   - Intership Projects
 [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
