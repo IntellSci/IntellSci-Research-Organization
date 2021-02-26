@@ -14,7 +14,9 @@
 ```
 
 ```
-![Icon](icon.png)
+![Icon](assets/images/icon.png)
+
+https://github.com/IntellSci/IntellSci-Research-Organization.git/assets/images/icon.png
 ```
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
