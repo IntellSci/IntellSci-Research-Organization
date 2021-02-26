@@ -5,13 +5,13 @@
 
 
 
-SERVICES for SOCIAL AND COMMERCIAL PURPOSES
-[TARGETED THOUGHT-ENERGY THERAPY](#TTT)
+**[SERVICES](#services) for SOCIAL AND COMMERCIAL PURPOSES**
+- **[TARGETED THOUGHT-ENERGY THERAPY](#TTT)**
 
 
-PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
+**PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)**
 
-+ [BEING YOU](#beingyou)
++ **[BEING YOU](#beingyou)**
 
 + [BEYOND SCHOOL](#beyondschool)
 
@@ -34,14 +34,16 @@ PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
 
 + [DIVINE INTELLIGENCE](#divine_intelligence)
 
-
+<a name="services">
 **SERVICES for SOCIAL AND COMMERCIAL PURPOSES**
 <a name="TTT">
-TARGETED THOUGHT-ENERGY THERAPY
+
+**TARGETED THOUGHT-ENERGY THERAPY**
   
 
-
-**PROGRAMS ON <a name="selfintelligence"> SELF-INTELLIGENCE
+<a name="selfintelligence">
+  
+**PROGRAMS ON SELF-INTELLIGENCE**
 
 <a name="beingyou">
 
