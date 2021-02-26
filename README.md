@@ -8,7 +8,7 @@ All About the Organization
 <style>
 body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
 h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
+p {font-family:Georgia, serif;font-size:17px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
 </style>
 </head>
 <body>
