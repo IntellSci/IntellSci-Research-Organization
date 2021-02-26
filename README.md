@@ -16,21 +16,40 @@ hello
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
-[TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
+[TARGETED THOUGHT-ENERGY THERAPY](#TTT)
 
-PROGRAMS ON SELF-INTELLIGENCE
+
+PROGRAMS ON SELF-INTELLIGENCE(#self_intelligence)
 [BEING YOU](#beingyou)
 [BEYOND SCHOOL](#beyondschool)
+[SKILL INTELLIGENCE](#skill_intelligence)
+  - Daily Data Science Bootcamp
+  - Intership Projects
+[SCIENTIFIC INTELLIGENCE](#scientific_intelligence)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) ``Mathematics for Social Sciences
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Engineering Analytics`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `General Psychology for Developers`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Data Psychology for Developers`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Analytical Programming for All`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Automatic Programming for All`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Actuarial Sciences`
+
+[DIVINE INTELLIGENCE](#divine_intelligence)
+•	Book
+•	YouTube videos
+•	Podcast
+•	Live Chat
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 <a name="TTT">
 TARGETED THOUGHT-ENERGY THERAPY
   
- </a> 
 
-PROGRAMS ON SELF-INTELLIGENCE
+
+PROGRAMS ON <a name="self_intelligence"> SELF-INTELLIGENCE
 
 <a name="beingyou">
 
@@ -107,6 +126,41 @@ Assessments: Intelligence, Learning Style, Personality, Need Analysis
 Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 
+<a name="skill_intelligence">
+**SKILL INTELLIGENCE**
+<a name="DDS">
+ Daily Data Science Boot Camp
+  - Related to an aspect of daily life
+  - Projects to address real life requirements
+  - Obtain optimal, practical, beneficial solutions
+  - Customized and self-paced hands-on project experience
+  - Individual/Group-based projects/case studies/research
+  - Completely involving Project management  
+  - Individualized Capability Enhancement
+  - Bottom-up approach of role assignment
+  - Commercialization of project results
+  - No bar on age, gender, qualification, role 
+
+<a name="internship">
+  Internship Projects
+- Goal Designing
+- Career Mapping
+- Purpose Definition
+- Capability Enhancement:
+  - Focus and Concentration
+  - Intention and Manifestation
+  - Ideation and Execution
+  - Conceptualization and Implementation
+  - Empathy and Generosity
+  - Patience and Humility 
+
+-   Projects to address real life requirements
+-   Obtain optimal, practical, beneficial solutions
+-   Customized and self-paced hands-on project experience
+-   Individual/Group-based projects/case studies/research
+-   Completely involving Project management  
+-   Commercialization of project results
+-   No bar on age, gender, qualification, role 
 
 ![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
 
