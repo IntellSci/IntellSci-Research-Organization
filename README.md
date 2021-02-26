@@ -16,8 +16,8 @@ PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
 + [BEYOND SCHOOL](#beyondschool)
 
 + [SKILL INTELLIGENCE](#skillintelligence)
-    - Daily Data Science Bootcamp
-    - Intership Projects
+    - [Daily Data Science Bootcamp](#DDS)
+    - [Intership Projects](#internship)
 
 + [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
 
@@ -93,29 +93,29 @@ Break your barriers of abuse
 
 - Divine Intelligence
 
-Scientific Intelligence
+- Scientific Intelligence
 
-Social Life Skills
+- Social Life Skills
 
-Self-Grooming Skills
+- Self-Grooming Skills
 
-Aspiration (Role/Goal based) Videos
+- Aspiration (Role/Goal based) Videos
 
-Motivation (Intention based) Videos
+- Motivation (Intention based) Videos
 
-Educative and Informative Videos
+- Educative and Informative Videos
 
-Goal Designing
+- Goal Designing
 
-Career Framing
+- Career Framing
 
-Purpose Definition
+- Purpose Definition
 
-Capability Enhancement
+- Capability Enhancement
 
-Assessments: Intelligence, Learning Style, Personality, Need Analysis
+- Assessments: Intelligence, Learning Style, Personality, Need Analysis
 
-Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+- Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 
 <a name="skillintelligence">
@@ -154,7 +154,8 @@ Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviou
 -   Commercialization of project results
 -   No bar on age, gender, qualification, role 
 
-[SCIENTIFIC INTELLIGENCE](#scientificintelligence)
+<a name="scientific_intelligence">
+SCIENTIFIC INTELLIGENCE
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
