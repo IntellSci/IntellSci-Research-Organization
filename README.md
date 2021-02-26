@@ -18,7 +18,7 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 </html>
 
 
-SERVICES for SOCIAL AND COMMERCIAL PURPOSES
+SERVICESs for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT)
 
 PROGRAMS ON SELF-INTELLIGENCE
