@@ -1,25 +1,4 @@
-Welcome to IntellSci Research Organization!!!
-
-<!DOCTYPE html>
-<html>
-<head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-Welcome to IntellSci Research Organization!!!</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="Research, Quality, Statistics, Data, Experiment">
-<meta name="description" content="All About the Organization">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:16px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
-</head>
-<body>
-<h1></h1>
-<p></p>
-</body>
-</html>
+**Welcome to IntellSci Research Organization!!!**
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
