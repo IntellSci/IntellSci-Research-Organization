@@ -19,13 +19,13 @@ SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT)
 
 
-PROGRAMS ON SELF-INTELLIGENCE(#self_intelligence)
+PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
 [BEING YOU](#beingyou)
 [BEYOND SCHOOL](#beyondschool)
 [SKILL INTELLIGENCE](#skill_intelligence)
   - Daily Data Science Bootcamp
   - Intership Projects
-[SCIENTIFIC INTELLIGENCE](#scientific_intelligence)
+[SCIENTIFIC INTELLIGENCE](#scientificintelligence)
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
@@ -46,7 +46,7 @@ TARGETED THOUGHT-ENERGY THERAPY
   
 
 
-PROGRAMS ON <a name="self_intelligence"> SELF-INTELLIGENCE
+PROGRAMS ON <a name="selfintelligence"> SELF-INTELLIGENCE
 
 <a name="beingyou">
 
@@ -123,7 +123,7 @@ Assessments: Intelligence, Learning Style, Personality, Need Analysis
 Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
 
 
-<a name="skill_intelligence">
+<a name="skillintelligence">
 **SKILL INTELLIGENCE**
 <a name="DDS">
  Daily Data Science Boot Camp
