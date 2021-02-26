@@ -152,6 +152,7 @@ Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviou
 
 
 <a name="divine_intelligence">
+DIVINE INTELLIGENCE
 •	Book
 •	YouTube videos
 •	Podcast
