@@ -6,29 +6,33 @@
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
-```diff
-+ [TARGETED THOUGHT-ENERGY THERAPY](#TTT)
-```
+[TARGETED THOUGHT-ENERGY THERAPY](#TTT)
+
 
 PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
-[BEING YOU](#beingyou)
-[BEYOND SCHOOL](#beyondschool)
-[SKILL INTELLIGENCE](#skillintelligence)
-  - Daily Data Science Bootcamp
-  - Intership Projects
-[SCIENTIFIC INTELLIGENCE](#scientificintelligence)
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Engineering Analytics`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `General Psychology for Developers`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Data Psychology for Developers`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Analytical Programming for All`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Automatic Programming for All`
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Actuarial Sciences`
 
-[DIVINE INTELLIGENCE](#divine_intelligence)
++ [BEING YOU](#beingyou)
 
++ [BEYOND SCHOOL](#beyondschool)
+
++ [SKILL INTELLIGENCE](#skillintelligence)
+    - Daily Data Science Bootcamp
+    - Intership Projects
+
++ [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
+
+  + Artificial Intelligence for All - AIFA
+  + Artificial Intelligence for Mathematicians
+  + Mathematics for Social Sciences
+  + Engineering Analytics
+  + General Psychology for Developers
+  + Data Psychology for Developers
+  + Analytical Programming for All
+  + Automatic Programming for All
+  + Actuarial Sciences
+
+
++ [DIVINE INTELLIGENCE](#divineintelligence)
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
@@ -150,8 +154,19 @@ Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviou
 -   Commercialization of project results
 -   No bar on age, gender, qualification, role 
 
+[SCIENTIFIC INTELLIGENCE](#scientificintelligence)
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Engineering Analytics`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `General Psychology for Developers`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Data Psychology for Developers`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Analytical Programming for All`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Automatic Programming for All`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Actuarial Sciences`
 
-<a name="divine_intelligence">
+
+<a name="divineintelligence">
 DIVINE INTELLIGENCE
 •	Book
 •	YouTube videos
