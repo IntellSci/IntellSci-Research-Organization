@@ -37,10 +37,7 @@ PROGRAMS ON SELF-INTELLIGENCE(#self_intelligence)
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Actuarial Sciences`
 
 [DIVINE INTELLIGENCE](#divine_intelligence)
-•	Book
-•	YouTube videos
-•	Podcast
-•	Live Chat
+
 
 
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
@@ -161,6 +158,13 @@ Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviou
 -   Completely involving Project management  
 -   Commercialization of project results
 -   No bar on age, gender, qualification, role 
+
+
+<a name="divine_intelligence">
+•	Book
+•	YouTube videos
+•	Podcast
+•	Live Chat
 
 ![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
 
