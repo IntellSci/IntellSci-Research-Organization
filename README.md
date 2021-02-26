@@ -14,7 +14,7 @@
 ```
 
 ```
-![](icon.png)
+![](avatar.jpg)
 ```
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
