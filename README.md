@@ -17,7 +17,7 @@
 
 + [SKILL INTELLIGENCE](#skillintelligence)
     - [Daily Data Science Bootcamp](#DDS)
-    - [Intership Projects](#internship)
+    - [Internship Projects](#internship)
 
 + [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
 
@@ -61,6 +61,7 @@
 
 - Thought Pattern Analysis
 
+- Additional Benefits
 Engage your individual lunar power
 
 Identify the triggers of your hormonal imbalance
@@ -101,11 +102,7 @@ Break your barriers of abuse
 
 - Self-Grooming Skills
 
-- Aspiration (Role/Goal based) Videos
-
-- Motivation (Intention based) Videos
-
-- Educative and Informative Videos
+- Mind and Thought Cleansing
 
 - Goal Designing
 
@@ -118,6 +115,12 @@ Break your barriers of abuse
 - Assessments: Intelligence, Learning Style, Personality, Need Analysis
 
 - Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviour
+
+- Aspiration (Role/Goal based) Videos
+
+- Motivation (Intention based) Videos
+
+- Educative and Informative Videos
 
 
 <a name="skillintelligence">
@@ -156,7 +159,7 @@ Break your barriers of abuse
 -   Commercialization of project results
 -   No bar on age, gender, qualification, role 
 
-<a name="scientific_intelligence">
+<a name="scientificintelligence">
 SCIENTIFIC INTELLIGENCE
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
