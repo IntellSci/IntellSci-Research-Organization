@@ -13,10 +13,11 @@
 + Welcome!
 ```
 
-```
-![Icon](assets/images/icon.png)
+![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
 
-https://github.com/IntellSci/IntellSci-Research-Organization.git/assets/images/icon.png
+```
+![avatar](https://user-images.githubusercontent.com/79456176/109332888-bef9f300-7884-11eb-9cb0-4af37195b5f3.jpg)
+
 ```
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
