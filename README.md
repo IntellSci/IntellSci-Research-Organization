@@ -32,16 +32,16 @@ PROGRAMS ON [SELF-INTELLIGENCE](#selfintelligence)
   + Actuarial Sciences
 
 
-+ [DIVINE INTELLIGENCE](#divineintelligence)
++ [DIVINE INTELLIGENCE](#divine_intelligence)
 
 
-SERVICES for SOCIAL AND COMMERCIAL PURPOSES
+**SERVICES for SOCIAL AND COMMERCIAL PURPOSES**
 <a name="TTT">
 TARGETED THOUGHT-ENERGY THERAPY
   
 
 
-PROGRAMS ON <a name="selfintelligence"> SELF-INTELLIGENCE
+**PROGRAMS ON <a name="selfintelligence"> SELF-INTELLIGENCE
 
 <a name="beingyou">
 
@@ -166,7 +166,7 @@ Routine Checks: Sleep, Diet, Physical Activity, Emotional Energy, Moral Behaviou
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Actuarial Sciences`
 
 
-<a name="divineintelligence">
+<a name="divine_intelligence">
 DIVINE INTELLIGENCE
 •	Book
 •	YouTube videos
