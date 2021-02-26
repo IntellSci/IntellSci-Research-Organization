@@ -10,7 +10,7 @@
 ```
 SERVICES for SOCIAL AND COMMERCIAL PURPOSES
 [TARGETED THOUGHT-ENERGY THERAPY](#TTT!)
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15 red`
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 
 PROGRAMS ON SELF-INTELLIGENCE
 [BEING YOU](#beingyou)
