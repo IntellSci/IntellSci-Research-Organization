@@ -3,7 +3,7 @@
 <head>
 <!-- HTML Codes by Quackit.com -->
 <title>
-Welcome to IntellSci Research Organization</title>
+Welcome to IntellSci Research Organization!</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content="Research, Quality, Statistics, Data, Experiment">
 <meta name="description" content="All About the Organization">
