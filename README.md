@@ -16,8 +16,10 @@
 + [BEYOND SCHOOL](#beyondschool)
 
 + [SKILL INTELLIGENCE](#skillintelligence)
-    - [Daily Data Science Bootcamp](#DDS)
-    - [Internship Projects](#internship)
+   # - [Daily Data Science Bootcamp](#DDS)
+   # - [Internship Projects](#internship)
+    - Daily Data Science Bootcamp
+    - Internship Projects
 
 + [SCIENTIFIC INTELLIGENCE](#scientificintelligence)
 
@@ -126,7 +128,7 @@ Break your barriers of abuse
 <a name="skillintelligence">
 **SKILL INTELLIGENCE**
 <a name="DDS">
- Daily Data Science Boot Camp
+**Daily Data Science Boot Camp**
   - Related to an aspect of daily life
   - Projects to address real life requirements
   - Obtain optimal, practical, beneficial solutions
@@ -139,7 +141,7 @@ Break your barriers of abuse
   - No bar on age, gender, qualification, role 
 
 <a name="internship">
-  Internship Projects
+**Internship Projects**
 - Goal Designing
 - Career Mapping
 - Purpose Definition
@@ -160,7 +162,7 @@ Break your barriers of abuse
 -   No bar on age, gender, qualification, role 
 
 <a name="scientificintelligence">
-SCIENTIFIC INTELLIGENCE
+**SCIENTIFIC INTELLIGENCE**
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for All - AIFA`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Artificial Intelligence for Mathematicians`
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Mathematics for Social Sciences`
@@ -173,7 +175,23 @@ SCIENTIFIC INTELLIGENCE
 
 
 <a name="divine_intelligence">
-DIVINE INTELLIGENCE
+**DIVINE INTELLIGENCE**
+  DATA SCIENCE
+	SPIRITUAL SCIENCE
+	PSYCHOLOGICAL SCIENCE
+	COGNITIVE SCIENCE
+	NEURO SCIENCE – Computational Neuroscience of Abuse: Cognitive, Computational, Molecular, Cellular, Social, Behavioural, Religion, Clinical, Cultural, Developmental,
+	SOCIAL SCIENCE – Economics, Finance, Environment (Geography), History, Legal, Political
+QUANTUM SCIENCE – Quantum Mechanics, Q Biology, Q Statistics
+	MOLECULAR SCIENCE
+	GENETIC SCIENCE
+	DIET SCIENCE
+	Self-healing SCIENCE – Reiki, Pranic Healing, Touch Therapy, Affirmation
+	HEALING SCIENCE – Mudras, Religious Practices, AAUSH (Allopathy, Ayurveda, Unani, Siddha, Homeopathy)
+	KARMIC SCIENCE
+	YOGIC SCIENCE
+
+
 •	Book
 •	YouTube videos
 •	Podcast
